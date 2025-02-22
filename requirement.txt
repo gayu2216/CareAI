@@ -1,0 +1,8 @@
+streamlit
+joblib
+pandas
+numpy
+json
+translate
+requests
+streamlit_lottie
